@@ -2,10 +2,9 @@
 
 <!--
 **zerostwo/zerostwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 -->
 
-[![Zerostwo's github stats](https://github-readme-stats.vercel.app/api?username=Zerostwow&count_private=true&show_icons=true&theme=default)](https://songqi.online) 
+[![zerostwo's github stats](https://github-readme-stats.vercel.app/api?username=zerostwow&count_private=true&show_icons=true&theme=default)](https://songqi.online) 
 
 This is the place where I opensource stuff and break things :rofl:
 
