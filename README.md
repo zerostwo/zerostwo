@@ -8,10 +8,10 @@
 
 This is the place where I opensource stuff and break things :rofl:
 
-- 🔭 I’m currently working on Liu's Lab in Sichuan Agricultural University.
-- 🌱 I’m currently learning Bioinformatics Analysis.
+- 🔭 I’m currently working on Ma's Lab in City of Hope National Medical Center.
+- 🌱 I’m currently learning bioinformatics analysis.
 - 💬 Ask me about depth bioinformatics analysis, bioscience research and everything you want to ask if I know.
-- 📫 How to reach me: [Songqi Duan | 段松岐](https://songqi.online).
-- ⚡ Fun fact: I :heart: :dog:s, I have a Schnauzer named [Timi](https://songqi.online/cn/2020/08/ten-commandments-for-dogs/).
+- 📫 How to reach me: [Songqi Duan | 段松岐](https://songqi.org).
+- ⚡ Fun fact: I :heart: :dog:s, I have a Schnauzer named Timi and a Cow cat named Piggy.
 <!-- - 🤔 I’m looking for help with ...-->
 <!-- - 😄 Pronouns: ... -->
